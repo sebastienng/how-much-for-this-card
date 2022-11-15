@@ -1,2 +1,9 @@
 src/.env
-nodes_modules
+node_modules
+functions/node_modules
+.vscode
+firebase.json
+firestore.indexes.json
+firestore.rules
+storage.rules
+.firebaserc
