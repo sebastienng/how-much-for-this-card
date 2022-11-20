@@ -2,7 +2,3 @@ src/.env
 node_modules
 functions/node_modules
 .vscode
-firestore.indexes.json
-firestore.rules
-storage.rules
-.firebaserc
